@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="helloText"> Hello World! 👋 My name is Ryan and I love the ocean and its mysteries.</string>
+</resources>
